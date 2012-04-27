@@ -1,4 +1,4 @@
-(defproject backtype/dfs-datastores "1.1.3-SNAPSHOT"
+(defproject org.clojars.lelayf/dfs-datastores "1.1.3-SNAPSHOT"
   :source-path "src/clj"
   :test-path "test/clj"
   :java-source-path "src/jvm"
@@ -16,3 +16,4 @@
                      [lein-javac "1.3.0"]
                      [lein-junit "1.0.0"]
                      [junit "4.7"]])
+
